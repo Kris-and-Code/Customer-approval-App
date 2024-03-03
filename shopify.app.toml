@@ -2,22 +2,23 @@
 
 client_id = "fa7ebf3f094f9c586957d423e310acb7"
 name = "admin-approval-app"
-application_url = "https://realtors-public-closed-mime.trycloudflare.com"
+application_url = "https://micro-bs-how-syria.trycloudflare.com"
 embedded = true
 
 [build]
 automatically_update_urls_on_dev = true
 dev_store_url = "bambaritest.myshopify.com"
+include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_products"
+scopes = "read_customers,read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://realtors-public-closed-mime.trycloudflare.com/auth/callback",
-  "https://realtors-public-closed-mime.trycloudflare.com/auth/shopify/callback",
-  "https://realtors-public-closed-mime.trycloudflare.com/api/auth/callback"
+  "https://micro-bs-how-syria.trycloudflare.com/auth/callback",
+  "https://micro-bs-how-syria.trycloudflare.com/auth/shopify/callback",
+  "https://micro-bs-how-syria.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
