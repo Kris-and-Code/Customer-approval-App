@@ -261,5 +261,11 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 - [App authentication](https://shopify.dev/docs/apps/auth)
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli)
 - [App extensions](https://shopify.dev/docs/apps/app-extensions/list)
+- 
+
+
+
+#Note:
+Permission issue: To solve the permission issue it is required to do the deployment, once the deployment is done run again and then the permission issue can be resolved.
 - [Shopify Functions](https://shopify.dev/docs/api/functions)
 - [Getting started with internationalizing your app](https://shopify.dev/docs/apps/best-practices/internationalization/getting-started)
