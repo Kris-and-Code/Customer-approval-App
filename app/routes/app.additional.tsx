@@ -28,7 +28,6 @@ export default function AdditionalPage() {
                 >
                   App Bridge
                 </Link>
-                .
               </Text>
               <Text as="p" variant="bodyMd">
                 To create your own page and have it show up in the app
@@ -50,8 +49,7 @@ export default function AdditionalPage() {
                   <Link
                     url="https://shopify.dev/docs/apps/design-guidelines/navigation#app-nav"
                     target="_blank"
-                    removeUnderline
-                  >
+                    removeUnderline>
                     App nav best practices
                   </Link>
                 </List.Item>
