@@ -1,3 +1,11 @@
+
+ Admin approval app
+The admin approval can be used to restrict the customer flow in the B2B Platform. So that the admin can verify the new customers and give access to them.
+
+It is also possible to implement this feature with theme customization.
+
+
+
 # Shopify App Template - Remix
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
